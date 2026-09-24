@@ -4,6 +4,6 @@ Jednostranična prezentacijska web stranica za restoran Stari Kotač (Petrovarad
 
 **Uživo:** https://kriscro99.github.io/stari-kotac/
 
-Čisti HTML, CSS i JavaScript, bez build koraka. Sadržaj i fotografije preuzeti su sa [starikotac.com](https://starikotac.com), osim pozadinske fotografije u uvodu (pljeskavice na roštilju), koja je CC0 fotografija s [PxHere](https://pxhere.com/en/photo/1366505).
+Čisti HTML, CSS i JavaScript, bez build koraka. Sadržaj i fotografije preuzeti su sa [starikotac.com](https://starikotac.com).
 
 Fontovi: Playfair Display i Poppins (isti kao na službenoj stranici) te Bebas Neue za logo.

@@ -519,7 +519,7 @@ em { font-style: italic; }
 @keyframes scrollDot { 0% { opacity: 0; transform: translateY(0); } 30% { opacity: 1; } 80% { opacity: 0; transform: translateY(14px); } 100% { opacity: 0; } }
 
 @media (min-width: 701px) {
-  .hero__media img { object-position: 50% 50%; }
+  .hero__media img { object-position: 62% 50%; }
   .hero__shade {
     background:
       linear-gradient(90deg, rgba(13, 10, 8, .92) 0%, rgba(13, 10, 8, .6) 38%, rgba(13, 10, 8, .05) 70%),
